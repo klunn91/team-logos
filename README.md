@@ -5,3 +5,4 @@ This is an open-source project, so feel free to contribute! Check out the contri
 
 Logos currently included for the following leagues:
 - NFL (png)
+- NCAA (png)

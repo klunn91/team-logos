@@ -1,5 +1,7 @@
 # team-logos
-A one-stop shop for sports team logos worldwide.
+A one-stop shop for images of sports team logos.
 
-Current leagues:
-- NFL
+This is an open-source project, so feel free to contribute! Check out the contribute.txt file to learn more.
+
+Logos currently included for the following leagues:
+- NFL (png)
